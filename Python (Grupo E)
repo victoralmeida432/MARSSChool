@@ -1,4 +1,4 @@
-//usando a biblioteca pygame tem que importar ela!, usando pyserial também!
+//usando a biblioteca pygame tem que baixar ela!, usando pyserial também!
 //Código em Python!
 import pygame
 import serial
