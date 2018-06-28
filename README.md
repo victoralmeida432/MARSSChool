@@ -21,7 +21,7 @@ Grupo E / Flying Owl:
 - Victor Almeida (vala@cesar.school) - Git Manager -
 
 
-TLDR;
+[b]TLDR;[/b]
 
 [Codigo Python Grupo E 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOE.py)
 
