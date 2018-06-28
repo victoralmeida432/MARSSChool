@@ -4,6 +4,20 @@ MARS project (CESAR SCHOOL) //Turma 2018.1//
 Coloquem seus codigos aqui e o Projeto aqui ao final de cada semestre, caso voce esteja relacionado ao Projeto MARS(daaaa) '/t'
 Ao sair, apague a luz! <3
 
+Grupo A:
+-
+-
+-
+-
+
+Grupo E / Flying Owl:
+- Arthur Reis (aor@cesar.school)
+- Caio Reis (cbrr@cesar.school)
+- Luiza Magalhaes (lmc@cesar.school)
+- Kleber Filho (kwssf@cesar.school)
+- Maria Correia (mcaac@cesar.school)
+- Victor Almeida (vala@cesar.school) -Maneger-
+
 [Codigo Python Grupo E](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOE.py)
 
 [Codigo ino Grupo E](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOE.ino)
