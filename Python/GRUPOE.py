@@ -1,5 +1,7 @@
+//Editado ultima vez dia: 27/06/2018
 //usando a biblioteca pygame tem que baixar ela!, usando pyserial também!
 //Código em Python!
+//vale lembrar que os audios precisam estar salvos na pasta do python e precisam estar com os mesmos nomes -CaseSensitive-
 import pygame
 import serial
 import time
