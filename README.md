@@ -16,7 +16,7 @@ Grupo E / Flying Owl:
 - Luiza Magalhaes (lmc@cesar.school)
 - Kleber Filho (kwssf@cesar.school)
 - Maria Correia (mcaac@cesar.school)
-- Victor Almeida (vala@cesar.school) -Maneger-
+- Victor Almeida (vala@cesar.school) -Manager-
 
 [Codigo Python Grupo E](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOE.py)
 
