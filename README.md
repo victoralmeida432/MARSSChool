@@ -7,6 +7,7 @@ Ao sair, apague a luz! <3
 -----------------------------------------------------------------------------------------------------------
 
 Grupo A / ARC:
+
 Descricao:
 -----
 
@@ -23,6 +24,7 @@ Grupo:
 -----------------------------------------------------------------------------------------------------------
 
 Grupo E / Flying Owl:
+
 Descricao:
 -----
 O grupo teve como objetivo criar uma feature para o robo assistivo do projeto MARS do C.E.S.A.R. uma funcionalidade a qual ligasse pais e filhos de forma afetiva, e que deixasse o Robo mais proximo da realidade de uma conexao humana. O grupo opitou pela escolha de um modo de contacao de historias ligadas a dinamica do livro-jogo.
