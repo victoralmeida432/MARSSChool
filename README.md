@@ -20,14 +20,14 @@ Grupo E / Flying Owl:
 - Maria Correia (mcaac@cesar.school)
 - Victor Almeida (vala@cesar.school) - Git Manager -
 
-[Codigo Python Grupo E](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOE.py)
+[Codigo Python Grupo E 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOE.py)
 
-[Codigo ino Grupo E](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOE.ino)
+[Codigo ino Grupo E 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOE.ino)
 
-[Pasta de midias Grupo E](https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOE)
+[Pasta de midias Grupo E 2018.1] (https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOE)
 
-[Codigo Python GRUPO A](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOA.py)
+[Codigo Python GRUPO A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOA.py)
 
-[Pasta de midias Grupo A](https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOA)
+[Pasta de midias Grupo A 2018.1](https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOA)
 
-[Codigo ino Grupo A](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOA.ino)
+[Codigo ino Grupo A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOA.ino)
