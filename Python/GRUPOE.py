@@ -7,7 +7,7 @@ import serial
 import time
 pygame.mixer.init()
 conexao = serial.Serial('COM3', 9600)
-//porta determinada na IDE do Arduino
+//porta 'COMX' determinada na IDE do Arduino
 
 //primeira Função para escolher qual modo vai ser usado
 def historia():
