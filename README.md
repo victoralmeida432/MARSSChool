@@ -24,7 +24,7 @@ Grupo E / Flying Owl:
 
 [Codigo ino Grupo E 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOE.ino)
 
-[Pasta de midias Grupo E 2018.1] (https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOE)
+[Pasta de midias Grupo E 2018.1](https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOE)
 
 [Codigo Python GRUPO A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOA.py)
 
