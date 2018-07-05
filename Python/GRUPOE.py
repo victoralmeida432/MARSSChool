@@ -1,15 +1,15 @@
-//Editado ultima vez dia: 27/06/2018
-//usando a biblioteca pygame tem que baixar ela!, usando pyserial também!
-//Código em Python!
-//vale lembrar que os audios precisam estar salvos na pasta do python e precisam estar com os mesmos nomes -CaseSensitive-
+#Editado ultima vez dia: 27/06/2018
+#usando a biblioteca pygame tem que baixar ela!, usando pyserial também!
+#Código em Python!
+#vale lembrar que os audios precisam estar salvos na pasta do python e precisam estar com os mesmos nomes -CaseSensitive-
 import pygame
 import serial
 import time
 pygame.mixer.init()
 conexao = serial.Serial('COM3', 9600)
-//porta 'COMX' determinada na IDE do Arduino
+#porta 'COMX' determinada na IDE do Arduino
 
-//primeira Função para escolher qual modo vai ser usado
+#primeira Função para escolher qual modo vai ser usado
 def historia():
     pygame.mixer.music.load("historia.mp3")
     pygame.mixer.music.play()
