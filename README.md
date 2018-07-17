@@ -51,8 +51,8 @@ Fast Finder;
 
 -----------------------------------------------------------------------------------------------------------
 
-[Codigo Python GRUPO A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GRUPOA.py)
+[Codigo Python GRUPO A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Python/GrupoA/)
 
 [Pasta de midias Grupo A 2018.1](https://github.com/victoralmeida432/MARSSChool/tree/master/MidiaGRUPOA)
 
-[Codigo ino Grupo A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GRUPOA.ino)
+[Codigo ino Grupo A 2018.1](https://github.com/victoralmeida432/MARSSChool/blob/master/Arduino/GrupoA/)
